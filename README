@@ -1,0 +1,4 @@
+An arduino library for the lcd display used in old Nokia 5110 phones
+Item sold by sparkfun http://www.sparkfun.com/products/10168
+Datasheet http://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf
+Partially based on the code at http://www.arduino.cc/playground/Code/PCD8544
