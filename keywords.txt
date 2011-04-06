@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For LCD5110
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD5110	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clearScreen	KEYWORD2
+clearScreenOrigin 	KEYWORD2
+init	KEYWORD2
+printChar	KEYWORD2
+printInvertedChar	KEYWORD2
+printInvertedStr	KEYWORD2
+printStr	KEYWORD2
+sendChar	KEYWORD2
+sendInvertedChar	KEYWORD2
+sendInvertedStr	KEYWORD2
+sendStr	KEYWORD2
+setBacklight	KEYWORD2
+setInverseVideo	KEYWORD2
+setOrigin	KEYWORD2
+setXYChar	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
